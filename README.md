@@ -6,7 +6,7 @@ This is our solution for Roger's smart city 5G hackathon that took place on Marc
 ## Team 
 - We are a team of four 2nd year Computer Engineering Students at UBC
 ###### 1) So Nozaki        (sonozaki7)
- - Worked on the main module and other helper classes
+ - Worked on the main module and other helper classes in TM.py using Python.
 ###### 2) Patrick Zhang    (pzhang24)
  - Worked on our mobile app using android studio using Java.
 ###### 3) Justin Wong      (nepuubu)
