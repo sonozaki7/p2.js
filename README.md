@@ -16,5 +16,5 @@ This is our solution for Roger's smart city 5G hackathon that took place on Marc
 
 
 
-## - Check our main module: 'data/TM.py'
-## - Check our integrated app: 'NotificationApp/' (Contact Patrick Zhang)
+###### - Check our main module: 'data/TM.py'
+###### - Check our integrated app: 'NotificationApp/' (Contact Patrick Zhang)
