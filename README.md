@@ -4,7 +4,7 @@ This is renewed version because the previous repo used LFS data storage so I had
 This is our solution for Roger's smart city 5G hackathon that took place on March 27th ~ 29th, 2020
 
 ## Team 
-- We are a team of four 2nd year Computer Engineering Students at UBC
+**We are a team of four 2nd year Computer Engineering Students at UBC**
 ###### 1) So Nozaki        (sonozaki7)
  - Worked on the main module and other helper classes in TM.py using Python.
 ###### 2) Patrick Zhang    (pzhang24)
