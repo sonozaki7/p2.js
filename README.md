@@ -15,5 +15,5 @@ This is our solution for Roger's smart city 5G hackathon that took place on Marc
 ######   - Worked on the GPS class, the main module, and other modules in TM.py using Python.
 
 
-> **- Check our main module: 'data/TM.py'**
-> **- Check our integrated app: 'NotificationApp/' (Contact Patrick Zhang)**
+> - Check our main module: 'data/TM.py
+> - Check our integrated app: 'NotificationApp/' (Contact Patrick Zhang)
