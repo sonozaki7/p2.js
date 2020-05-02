@@ -8,7 +8,7 @@ This is our solution for Roger's smart city 5G hackathon that took place on Marc
 ###### 1) So Nozaki        (sonozaki7)
  - Worked on the main module and other helper classes in TM.py using Python.
 ###### 2) Patrick Zhang    (pzhang24)
- - Worked on our mobile app using android studio using Java.
+ - Worked on our mobile app in Java using Android Studio.
 ###### 3) Justin Wong      (nepuubu)
  - Worked on the GPS_Reader class, the main module, and other classes in TM.py using Python.
 ###### 4) Patrick Huang    (patrick-ubc)
